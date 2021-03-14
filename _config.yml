@@ -6,9 +6,9 @@ baseurl_featured_thumbnail: '/Girls-Coding-Day-Jekyll-blog-3/assets/images/thumb
 baseurl_javascripts: '/Girls-Coding-Day-Jekyll-blog-3/assets/javascripts/'
 
 # 网页的标题
-title: "HELLOWORLD"
+title: "HELLOWORLD2"
 # 网站的主标题
-name: "HELLOWORLD"
+name: "HELLOWORLD2"
 description: "MYLIFE"
 
 url: site url
