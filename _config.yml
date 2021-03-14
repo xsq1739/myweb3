@@ -1,15 +1,15 @@
 # "/" + 仓库的名字. 资源文件的路径组成部分
-baseurl: '/Girls-Coding-Day-Jekyll-blog-3'
+baseurl: '/myweb3'
 baseurl_posts_img: '/Girls-Coding-Day-Jekyll-blog-3/assets/images/posts/'
 baseurl_featured_img: '/Girls-Coding-Day-Jekyll-blog-3/assets/images/hero/'
 baseurl_featured_thumbnail: '/Girls-Coding-Day-Jekyll-blog-3/assets/images/thumbnail/'
 baseurl_javascripts: '/Girls-Coding-Day-Jekyll-blog-3/assets/javascripts/'
 
 # 网页的标题
-title: "Girls Coding Day"
+title: "HELLOWORLD"
 # 网站的主标题
-name: "Girls Coding Day"
-description: "架起女性与编程的桥梁"
+name: "HELLOWORLD"
+description: "MYLIFE"
 
 url: site url
 icon: your site icon path # /assets/img/icon.png [best 300px X 300px]
