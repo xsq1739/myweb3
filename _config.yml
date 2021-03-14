@@ -1,0 +1,35 @@
+# "/" + 仓库的名字. 资源文件的路径组成部分
+baseurl: '/Girls-Coding-Day-Jekyll-blog-3'
+baseurl_posts_img: '/Girls-Coding-Day-Jekyll-blog-3/assets/images/posts/'
+baseurl_featured_img: '/Girls-Coding-Day-Jekyll-blog-3/assets/images/hero/'
+baseurl_featured_thumbnail: '/Girls-Coding-Day-Jekyll-blog-3/assets/images/thumbnail/'
+baseurl_javascripts: '/Girls-Coding-Day-Jekyll-blog-3/assets/javascripts/'
+
+# 网页的标题
+title: "Girls Coding Day"
+# 网站的主标题
+name: "Girls Coding Day"
+description: "架起女性与编程的桥梁"
+
+url: site url
+icon: your site icon path # /assets/img/icon.png [best 300px X 300px]
+disqus: disqus_shortname # get it on https://disqus.com/admin/
+
+defaults:
+  - scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: "default"
+
+# 其它配置, 可忽略, 无需修改
+permalink: /:title/
+
+markdown: kramdown
+
+kramdown:
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+exclude: [ changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock ]
